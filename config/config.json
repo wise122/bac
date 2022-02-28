@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x34b5140dF8ad57c9faD94661623737282AfD996b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x34b5140dF8ad57c9faD94661623737282AfD996b",
+  "NETWORK": {
+    "NAME": "Ethereum Tesnet",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Bored Alien Collection",
+  "SYMBOL": "BAC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/123",
+  "SHOW_BACKGROUND": true
+}
